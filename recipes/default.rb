@@ -30,3 +30,4 @@ mode '0644'
 owner 'root'
 group node['apache']['root_group']
 end
+
